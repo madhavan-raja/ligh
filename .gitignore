@@ -1,0 +1,8 @@
+.vscode/
+*.log
+env/
+*.pyc
+ligh/static/userdata/post_pics/*
+!ligh/static/userdata/post_pics/default.jpg
+ligh/static/userdata/profile_pics/*
+!ligh/static/userdata/profile_pics/default.jpg
