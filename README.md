@@ -1,2 +1,2 @@
 # ligh
-A (better looking) blog web app
+A (better looking) blog web app written in Python
